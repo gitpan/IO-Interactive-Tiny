@@ -3,7 +3,7 @@ package IO::Interactive::Tiny;
 # use strict;
 # use warnings;
 
-$IO::Interactive::Tiny::VERSION = '0.1';
+$IO::Interactive::Tiny::VERSION = '0.2';
 
 sub is_interactive {
     my ($out_handle) = (@_, select);    # Default to default output handle

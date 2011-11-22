@@ -7,7 +7,7 @@ IO::Interactive::Tiny - is_interactive() without large deps
 
 =head1 VERSION
 
-This document describes IO::Interactive::Tiny version 0.1
+This document describes IO::Interactive::Tiny version 0.2
 
 
 =head1 SYNOPSIS

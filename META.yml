@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:               IO-Interactive-Tiny
-version:            0.1
+version:            0.2
 abstract:           is_interactive() without large deps
 author:
     - Daniel Muey <http://drmuey.com/cpan_contact.pl>
